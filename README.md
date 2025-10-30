@@ -47,9 +47,9 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - Assoluto Racing
 
 ### Contact me! 👤
-Email: matiasmunera08@gmail.com
-YouTube: youtube.com/c/ThisIsDaMatt
-Instagram: ThisIsDaMatt
-Twitter: ThisIsDaMatt
+- Email: matiasmunera08@gmail.com
+- YouTube: youtube.com/c/ThisIsDaMatt
+- Instagram: ThisIsDaMatt
+- Twitter: ThisIsDaMatt
 
 
