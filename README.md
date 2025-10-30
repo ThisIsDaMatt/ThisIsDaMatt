@@ -37,7 +37,6 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - Languages: Python, LaTex, Swift
 - Design: Figma, Framer, PenPot, Photoshop
 - Edition: Filmora, DaVinci Resolve, Lightroom
-- Operative Systems: VirtualBox, VMWare, OpenCore
 - Tools: Git, VSCode, IDLE, xCode
 
 ### Games 🎮
