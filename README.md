@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✈️ I'm Matt, Aeronautical Engineering student and passionate for Tech, Coding, Design and more!
+### ✈️ I'm Matt, Systems Engineering student and passionate for Tech, Coding, Design and more!
 I love **content creation**, **photography**, **coding**, **UI design** and **software development**, with a little bit of **gaming** here and there. 🎮
 
 ### Interests and Skills 🎓
