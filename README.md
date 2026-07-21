@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 I love **content creation**, **photography**, **coding**, **UI design** and **software development**, with a little bit of **gaming** here and there. 🎮
 
 ### Interests and Skills 🎓
-- Content Creation in YouTube (5.7K Subscribers)
+- Content Creation in YouTube (6.6K Subscribers)
 - Aviation, Avionics and Aeronautics
 - Aviation Photography and PlaneSpotting
 - Coding applications, programs and websites
-- Researching and reverse engineering different Operative Systems
+- Researching about different Operative Systems
 - Designing and Prototyping UIs
 - Playing competitive shooter games
 
@@ -34,8 +34,8 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - Designing and prototyping various apps and tools in Figma
 
 ### Tech Stack 🧰
-- Languages: Python, LaTex, Swift
-- Design: Figma, Framer, PenPot, Photoshop
+- Languages: Python, Java, Swift
+- Design: Figma, Framer, Photoshop
 - Edition: Filmora, DaVinci Resolve, Lightroom
 - Tools: Git, VSCode, IDLE, xCode
 
