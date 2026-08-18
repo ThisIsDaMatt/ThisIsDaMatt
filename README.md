@@ -1,6 +1,6 @@
 ## Hi there 👋 - I'm ThisIsDaMatt!
 
-![AK-47 | Ice Coaled - MW](https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675)
+![AK-47 | Ice Coaled - MW](https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675){width=50%}
 <!--
 **ThisIsDaMatt/ThisIsDaMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
