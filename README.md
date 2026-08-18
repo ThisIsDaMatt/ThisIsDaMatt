@@ -1,7 +1,7 @@
 ## Hi there 👋 - I'm ThisIsDaMatt!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675" width="70%">
+  <img src="https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675" width="65%">
 </p>
 
 <!--
