@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675" width="65%">
   <br>
-  <em>AK-47 | Ice Coaled - Minimal Wear 0.08</em>
+  AK-47 | Ice Coaled - Minimal Wear 0.08
 </p>
 
 <!--
