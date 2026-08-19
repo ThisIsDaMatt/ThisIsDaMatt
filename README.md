@@ -55,7 +55,7 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 
 ### Contact me! 👤
 - Email: matiasmunera08@gmail.com
-- YouTube: youtube.com/c/ThisIsDaMatt
+- YouTube: www.youtube.com/c/ThisIsDaMatt
 - Instagram: ThisIsDaMatt
 - Twitter: ThisIsDaMatt
 - Steam Inventory: https://steamcommunity.com/id/ThisIsDaMatt/
