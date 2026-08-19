@@ -1,7 +1,7 @@
 ## Hi there 👋 - I'm ThisIsDaMatt!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675" width="65%">
+  <img src="https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675" width="70%">
   <br>
   AK-47 | Ice Coaled - Minimal Wear 0.08
 </p>
@@ -61,7 +61,7 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - Steam Inventory: www.steamcommunity.com/id/ThisIsDaMatt/
 ##
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9a42645-d814-4d7c-8830-2e9cb3bc9a29" width="65%">
+  <img src="https://github.com/user-attachments/assets/d9a42645-d814-4d7c-8830-2e9cb3bc9a29" width="70%">
   <br>
   AWP | Atheris - Minimal Wear 0.09 - Torszi (Holo) | Cologne 2026
 </p>
