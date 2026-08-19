@@ -60,4 +60,8 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - Twitter: ThisIsDaMatt
 - Steam Inventory: www.steamcommunity.com/id/ThisIsDaMatt/
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47108a9f-f799-43ac-b0ad-722b0d218675" width="65%">
+  <br>
+  AWP | Atheris - Minimal Wear 0.09 - Torszi (Holo) | Cologne 2026
+</p>
