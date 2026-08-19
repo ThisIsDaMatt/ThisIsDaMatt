@@ -32,6 +32,7 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - Researching about different Operative Systems
 - Designing and Prototyping UIs
 - Playing competitive shooter games
+- Collecting and trading Counter-Strike 2 skins
 
 ### Projects 🤖
 - Investigating Apple´s Liquid Glass for implementation in apps and programs as a design language
@@ -57,5 +58,6 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - YouTube: youtube.com/c/ThisIsDaMatt
 - Instagram: ThisIsDaMatt
 - Twitter: ThisIsDaMatt
+- Steam Inventory: https://steamcommunity.com/id/ThisIsDaMatt/
 
 
