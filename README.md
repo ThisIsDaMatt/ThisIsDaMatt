@@ -58,6 +58,6 @@ I love **content creation**, **photography**, **coding**, **UI design** and **so
 - YouTube: www.youtube.com/c/ThisIsDaMatt
 - Instagram: ThisIsDaMatt
 - Twitter: ThisIsDaMatt
-- Steam Inventory: https://steamcommunity.com/id/ThisIsDaMatt/
+- Steam Inventory: www.steamcommunity.com/id/ThisIsDaMatt/
 
 
